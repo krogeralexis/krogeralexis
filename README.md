@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning: Java, AWS, MySQL, Bash<br>
+🌱 I’m currently learning: Java, AWS, MySQL<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.krogerr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-kröger-694b3432a) 
